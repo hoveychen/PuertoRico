@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.eternized_lab.pr;
+package com.eternizedlab.puertorico;
 
 public final class R {
     public static final class attr {
